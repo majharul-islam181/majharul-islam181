@@ -103,12 +103,16 @@
   </a>
 </div>
 
--->
+
 
 
 
 
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=majharul-islam181&custom_title=Majharul%20Islam's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://majharul-islam.weebly.com/)
+-->
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=majharul-islam181&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
