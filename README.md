@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Md. Majharul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+Mobile+App+developer;Flutter+Developer;A+self+taught+guy;Competitive+Programmer%20on%20Leetcode;Talks%20%20about%20DS+|+OOP%20;Always%20learning%20new%20things&center=true&width=480&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+Mobile+App+developer;Flutter+Developer;A+self+taught+guy;Competitive+Programmer%20%20;Talks%20%20about%20DS+|+OOP%20;Always%20learning%20new%20things&center=true&width=480&height=50"></a>
   
 </p>
 
